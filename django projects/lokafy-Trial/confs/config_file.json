@@ -1,0 +1,8 @@
+{
+    "SECRET_KEY": "YiDcbezcVC0EP986ZJlpupaSsxDQgAZS0ZggfzuQ8p8",
+    "DATABASE_NAME": "lokafy",
+    "DATABASE_USER": "postgres",
+    "DATABASE_PASS": "1234",
+    "DATABASE_HOST": "localhost",
+    "DATABASE_PORT": "5432"
+}
