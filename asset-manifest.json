@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.ee4515bd.chunk.css",
+    "main.js": "/me/static/js/main.e467d11c.chunk.js",
+    "main.js.map": "/me/static/js/main.e467d11c.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.5f83c25d.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.5f83c25d.js.map",
+    "static/js/2.86261113.chunk.js": "/me/static/js/2.86261113.chunk.js",
+    "static/js/2.86261113.chunk.js.map": "/me/static/js/2.86261113.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.9f2ab7c9273a53a265ef0beedef8f094.js": "/me/precache-manifest.9f2ab7c9273a53a265ef0beedef8f094.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/main.ee4515bd.chunk.css.map": "/me/static/css/main.ee4515bd.chunk.css.map",
+    "static/js/2.86261113.chunk.js.LICENSE.txt": "/me/static/js/2.86261113.chunk.js.LICENSE.txt",
+    "static/media/dipesh_resume.pdf": "/me/static/media/dipesh_resume.404bb6cc.pdf",
+    "static/media/App.css": "/me/static/media/home_img.695c9fd3.jpg",
+    "static/media/profile.png": "/me/static/media/profile.23dfe68b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f83c25d.js",
+    "static/js/2.86261113.chunk.js",
+    "static/css/main.ee4515bd.chunk.css",
+    "static/js/main.e467d11c.chunk.js"
+  ]
+}
